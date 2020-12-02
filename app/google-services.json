@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405126682333",
+    "firebase_url": "https://adminpage-e46c8.firebaseio.com",
+    "project_id": "adminpage-e46c8",
+    "storage_bucket": "adminpage-e46c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405126682333:android:5e4bd850625fe3c6236d34",
+        "android_client_info": {
+          "package_name": "com.example.adminpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405126682333-5lo71utqg53gpl2hjlqith2ncvgbmrcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminpage",
+            "certificate_hash": "2c5e28e19dbca603af3960957974be35cda0a06c"
+          }
+        },
+        {
+          "client_id": "405126682333-s8j8qv7dfss5ldik2lncjko5lpitdtqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CwYAqt0kAGXr304avyO7h6u2OpW0lwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405126682333-s8j8qv7dfss5ldik2lncjko5lpitdtqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
